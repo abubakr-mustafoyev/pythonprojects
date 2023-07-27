@@ -9,6 +9,7 @@ while True:
     elif n % 2 == 0:
         print('Stop')
         break
+#  yangi
 #  git config --global user.email "abubakrmustafoyev@gmail.com"
 
 # git config --global user.name "abubakr-mustafoyev"
