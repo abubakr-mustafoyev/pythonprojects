@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "fullname": "Admin",
+        "username": "admin",
+        "role": "admin",
+        "products": [],
+        "is_user": true,
+        "password": "123",
+        "r_date": "2023-07-12 18:07:59.258295",
+        "chats": []
+    },
+    {
+        "id": 2,
+        "fullname": "Abubakr",
+        "username": "abubakr",
+        "role": "ceo",
+        "products": [],
+        "is_user": true,
+        "password": "123",
+        "r_date": "2023-07-12 18:11:18.789485",
+        "chats": []
+    },
+    {
+        "id": 3,
+        "fullname": "Sobir",
+        "username": "sobir",
+        "role": "kuryer",
+        "orders": [],
+        "history": [],
+        "is_user": true,
+        "password": "123",
+        "r_date": "2023-07-12 21:55:04.016027",
+        "chats": []
+    },
+    {
+        "id": 4,
+        "fullname": "Oqtepa lavash",
+        "username": "oqtepa",
+        "role": "company",
+        "products": [],
+        "history": [],
+        "is_user": true,
+        "password": "123",
+        "r_date": "2023-07-12 21:59:16.870973",
+        "chats": []
+    },
+    {
+        "id": 5,
+        "fullname": "lobar",
+        "username": "lobar",
+        "role": "user",
+        "history": [],
+        "password": "123",
+        "r_date": "2023-07-12 23:17:37.863488",
+        "chats": []
+    },
+    {
+        "id": 6,
+        "fullname": "Feet up",
+        "username": "feetup",
+        "role": "company",
+        "products": [],
+        "history": [],
+        "is_user": true,
+        "password": "123",
+        "r_date": "2023-07-12 23:26:52.320345",
+        "chats": []
+    },
+    {
+        "id": 7,
+        "fullname": "ahmad",
+        "username": "ahmad",
+        "role": "user",
+        "history": [],
+        "password": "123",
+        "r_date": "2023-07-12 23:32:13.343219",
+        "chats": []
+    }
+]
